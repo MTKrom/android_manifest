@@ -7,7 +7,7 @@ Getting Started
 To get started with Android/MTKrom, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the MTK Rom trees, use a command like this:
 
     repo init -u git://github.com/MTKrom/android_manifest.git -b n-7.1.2
 

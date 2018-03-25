@@ -17,6 +17,9 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+  <remote  name="mtk"
+	   fetch="https://github.com/MTKrom"
+	   revision="n-7.1.2" />
 
   <!-- AOSP Projects -->
 
